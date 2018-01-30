@@ -1,0 +1,87 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: Arial;
+}
+header {
+  background: #489d96;
+  width: 100%;
+}
+header h1 {
+  text-align: center;
+  padding-top: 10px;
+  color: #fff;
+}
+header h1 a:link, header h1 a:visited {
+  color: #fff;
+}
+header nav {
+  width: 100%;
+  text-align: center;
+  color: #fff;
+  padding-bottom: 5px;
+}
+header nav a {
+	text-decoration: none;
+	color: #fff;
+}
+header nav .li {
+	margin: 0 20px 10px 0;
+	padding: 6px;
+}
+#content {
+	font-family: Arial;
+	width: 80%;
+	max-width: 800px;
+	margin: 0 auto;
+	padding-bottom: 40px;
+}
+#content p {
+	/*margin: 0.6em 0;*/
+}
+#content div {
+	line-height: 1.8em;
+	text-indent:2em;
+}
+#list {
+	font-family: 'Hiragino Kaku Gothic ProN', 'Hiragino Kaku Gothic Pro', 'Meiryo';
+	width: 80%;
+	max-width: 1024px;
+	margin: 0 auto;
+	padding-bottom: 40px;
+}
+#list h1, #content h1 {
+	font-family: 'Microsoft Yahei';
+	text-align: left;
+	font-weight: bold;
+	border-bottom: solid 1px #ccc;
+	padding-top: 15px;
+	font-size: 1.5em;
+}
+#content h2 {
+	font-family: 'Microsoft Yahei';
+	border-bottom: solid 1px #ccc;
+	padding-top: 15px;
+	font-size: 1.3em;
+}
+#list table {
+	width: 100%;
+}
+#list table a, #content a {
+	text-decoration: none;
+}
+#list table a:hover, #content a:hover {
+	text-decoration: underline;
+}
+#history tr {
+	vertical-align: top;
+}
+#history tr td {
+	padding-right: 1em;
+}
+.small {
+	font-size: 80%;
+}
+.right {
+	float: right;
+}
