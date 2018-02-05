@@ -299,3 +299,4 @@ x[296]="liaoyang#32212#疗养|liáoyǎng#<ps>动</ps>患有慢性病或身体衰
 x[297]="liaoyangyuan#32213#疗养院|liáoyǎngyuàn#<ps>名</ps>专用于疗养的医疗机构，多设在环境幽雅的地方。";
 x[298]="liaoyi#32223#聊以|liáoyǐ#<ps>副</ps>姑且用来：～充饥｜～御寒｜～自慰。";
 var next = true;
+var pos = 107;

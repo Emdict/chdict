@@ -300,3 +300,4 @@ x[297]="shengyuan#45858#省垣|shěngyuán#〈书〉<ps>名</ps>省城。";
 x[298]="shengyubaoxian#45764#生育保险|shēngyù bǎoxiǎn#社会保险的一种。职业妇女因生育子女而暂时中断劳动时，由国家和…";
 x[299]="shengyuchanpin#45942#剩余产品|shèngyú chǎnpǐn#由劳动者的剩余劳动生产出来的产品（跟“必要产品”相对）。";
 var next = true;
+var pos = 153;

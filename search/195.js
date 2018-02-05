@@ -295,3 +295,4 @@ x[292]="xuanxiao#58190#喧嚣|xuānxiāo#➊<ps>形</ps>声音杂乱；不清静
 x[293]="xuanxiao#58191#喧笑|xuānxiào#<ps>动</ps>（许多人）高声说笑。";
 x[294]="xuanxie#58168#宣泄|xuānxiè#<ps>动</ps> ➊使积水流出去：低洼地区由于雨水无法～，往往造成内涝。 …";
 var next = true;
+var pos = 195;

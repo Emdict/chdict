@@ -300,3 +300,4 @@ x[297]="potian#39581#泼天|pōtiān#<ps>形</ps>形容极大、极多（多见�
 x[298]="potianhuang#39668#破天荒|pòtiānhuāng#<ps>动</ps>唐代时荆州每年送举人去考进士都考不中，当时称天荒（天荒…";
 x[299]="potierdiyizao#39666#破题儿第一遭|pò tí·er dì-yī zāo#指第一次做某件事：登台演戏我还是～。";
 var next = true;
+var pos = 133;

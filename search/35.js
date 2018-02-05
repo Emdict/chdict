@@ -301,3 +301,4 @@ x[298]="daozhu#10603#祷祝|dǎozhù#<ps>动</ps>祷告祝愿。";
 x[299]="daozhuan#10663#倒转|dàozhuǎn#➊<ps>动</ps>倒过来；反过来：～来说，道理也是一样。 ➋〈方〉<ps>副</ps>…";
 x[300]="daozhuan#10664#倒转|dàozhuàn#<ps>动</ps>倒着转动：历史的车轮不会～。";
 var next = true;
+var pos = 35;

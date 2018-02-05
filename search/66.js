@@ -301,3 +301,4 @@ x[298]="guzhang#18367#鼓胀|gǔzhàng#➊<ps>动</ps>凸起；胀起：手背�
 x[299]="guzhang#18380#臌胀|gǔzhàng#同“鼓胀”②。";
 x[300]="guzhang#18448#故障|gùzhàng#<ps>名</ps>（机械、仪器等）发生的障碍或毛病：排除～。";
 var next = true;
+var pos = 66;

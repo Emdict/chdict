@@ -301,3 +301,4 @@ x[298]="nianshi#37331#年时|niánshí#<ps>名</ps> ➊〈方〉年头<r>儿</r>
 x[299]="nianshi#37332#年时|nián·shi#〈方〉<ps>名</ps>去年：他们是～结的婚。";
 x[300]="nianshi#37333#年事|niánshì#〈书〉<ps>名</ps>年纪：～已高。";
 var next = true;
+var pos = 125;

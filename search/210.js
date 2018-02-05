@@ -300,3 +300,4 @@ x[297]="youyanbushitaishan#62654#有眼不识泰山|yǒu yǎn bù shí Tài Shā
 x[298]="youyang#62284#悠扬|yōuyáng#<ps>形</ps>形容声音时高时低而和谐：琴声～｜～的歌声。";
 x[299]="youyangyundong#62656#有氧运动|yǒuyǎng-yùndòng#在较低强度的运动中，运动的耗氧量低于人体所摄入的氧，这类运动…";
 var next = true;
+var pos = 210;

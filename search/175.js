@@ -300,3 +300,4 @@ x[297]="tuoshoukede#52333#唾手可得|tuòshǒu-kědé#比喻非常容易得到
 x[298]="tuoshu#52185#托熟|tuōshú#<ps>动</ps>认为是熟人而不拘礼节。";
 x[299]="tuoshui#52253#脱水|tuō∥shuǐ#<ps>动</ps> ➊人体中的液体大量减少，常在严重的呕吐、腹泻或大量出汗…";
 var next = true;
+var pos = 175;

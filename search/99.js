@@ -300,3 +300,4 @@ x[297]="koushixinfei#29505#口是心非|kǒushì-xīnfēi#指嘴里说的是一�
 x[298]="koushou#29506#口授|kǒushòu#<ps>动</ps> ➊口头传授（还没有文字记录的歌曲、方技等）：我国许多地…";
 x[299]="koushou#29545#叩首|kòushǒu#<ps>动</ps>磕头：三跪九～。";
 var next = true;
+var pos = 99;

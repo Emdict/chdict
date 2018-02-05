@@ -299,3 +299,4 @@ x[296]="yinxing#61667#印行|yìnxíng#<ps>动</ps>印刷并发行：～单行�
 x[297]="yinxingfeiji#61617#隐形飞机|yǐnxíng fēijī#指用雷达、红外线或其他探测系统难以发现的飞机。";
 x[298]="yinxingjishu#61618#隐形技术|yǐnxíng jìshù#采取各种措施，减弱雷达反射波、红外线辐射及噪声等，使飞机、导…";
 var next = true;
+var pos = 206;

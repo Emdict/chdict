@@ -269,3 +269,4 @@ x[266]="baimeng#01165#拜盟|bài∥ménɡ#<ps>动</ps>拜把子。";
 x[267]="baimengmeng#00902#白蒙蒙|báiménɡménɡ#（～的）<ps>形</ps>状态词。形容烟、雾、蒸气等白茫茫一片，模糊不清…";
 x[268]="baimenmian#01100#摆门面|bǎi mén·mian#讲究排场，粉饰外表。";
 var next = true;
+var pos = 3;

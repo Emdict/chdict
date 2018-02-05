@@ -300,3 +300,4 @@ x[297]="chenbao#06374#晨报|chénbào#<ps>名</ps>每天早晨出版的报纸�
 x[298]="chenbian#06414#趁便|chèn∥biàn#<ps>副</ps>顺便：你回家的时候，～给我带个口信。";
 x[299]="chenbing#06339#陈兵|chénbīnɡ#<ps>动</ps>部署兵力：～百万。";
 var next = true;
+var pos = 21;

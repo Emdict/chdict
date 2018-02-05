@@ -298,3 +298,4 @@ x[295]="guangmang#18993#光芒|guāngmáng#<ps>名</ps>向四面放射的强烈�
 x[296]="guangmao#19070#广袤|guǎngmào#〈书〉 ➊<ps>名</ps>土地的长和宽（东西的长度叫“广”，南北的长度叫…";
 x[297]="guangming#18994#光明|guāngmíng#➊<ps>名</ps>亮光：黑暗中闪出一线～。 ➋<ps>形</ps>明亮：这条街上的路灯…";
 var next = true;
+var pos = 62;

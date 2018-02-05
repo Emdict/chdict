@@ -300,3 +300,4 @@ x[297]="xiangke#56003#香客|xiāngkè#<ps>名</ps>朝山进香的人。参看�
 x[298]="xianglai#56119#想来|xiǎnglái#<ps>动</ps>表示只是根据推测，不敢完全肯定：从这里修涵洞～是可行的…";
 x[299]="xianglai#56139#向来|xiànglái#<ps>副</ps>从来；一向：～如此｜他做事～认真。";
 var next = true;
+var pos = 185;

@@ -300,3 +300,4 @@ x[297]="dabao#09503#大鸨|dàbǎo#<ps>名</ps>鸟，体长可达1米，背部�
 x[298]="dabaobuping#09271#打抱不平|dǎbàobùpíng#帮助受欺压的人说话或采取某种行动。";
 x[299]="dabaodalan#09502#大包大揽|dàbāo-dàlǎn#把工作或事情全部兜揽、承担起来。";
 var next = true;
+var pos = 31;

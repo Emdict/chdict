@@ -299,3 +299,4 @@ x[296]="shigu#46572#世故|shì·gu#<ps>形</ps>（处事待人）圆滑，不�
 x[297]="shigu#46669#事故|shìgù#<ps>名</ps>意外的损失或灾祸（多指在生产、工作上发生的）：工伤～｜…";
 x[298]="shiguaiyunjian#46269#时乖运蹇|shíguāi-yùnjiǎn#指时运不好。也说时乖命蹇。";
 var next = true;
+var pos = 155;

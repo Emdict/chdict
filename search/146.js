@@ -300,3 +300,4 @@ x[297]="ruduowuliwuzhong#43436#如堕五里雾中|rú duò wǔ lǐ wù zhōng#�
 x[298]="ruer#43525#乳儿|rǔ’ér#<ps>名</ps>以乳汁为主要食物的小儿，通常指一周岁以下的婴儿。";
 x[299]="ruer#43564#入耳|rù’ěr#<ps>形</ps>中听：不～｜这句话十分～。";
 var next = true;
+var pos = 146;

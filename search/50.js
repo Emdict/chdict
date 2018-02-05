@@ -300,3 +300,4 @@ x[297]="feizhou#14690#飞舟|fēizhōu#〈书〉<ps>名</ps>行驶极快的船�
 x[298]="feizhoujiyu#14738#非洲鲫鱼|Fēizhōu jìyú#鱼，外形跟鲫鱼相似，灰褐色或暗褐色。生活在海水或淡水中，原产…";
 x[299]="feizhuang#14785#肥壮|féizhuàng#<ps>形</ps>（生物体）肥大而健壮：禾苗～｜～的牛羊。";
 var next = true;
+var pos = 50;

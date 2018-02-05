@@ -300,3 +300,4 @@ x[297]="chengwenfa#06561#成文法|chénɡwénfǎ#<ps>名</ps>由国家依立法
 x[298]="chengwu#06723#乘务|chénɡwù#<ps>名</ps>指车、船、飞机等交通工具上为乘客服务的各种事务：～员｜…";
 x[299]="chengwuyuan#06724#乘务员|chénɡwùyuán#<ps>名</ps>从事乘务工作的人员。";
 var next = true;
+var pos = 22;

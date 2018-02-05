@@ -297,3 +297,4 @@ x[294]="fuxing#16101#复兴|fùxīng#<ps>动</ps> ➊衰落后再兴盛起来：
 x[295]="fuxing#16102#复姓|fùxìng#<ps>名</ps>不止一个字的姓，如欧阳、司马等。";
 x[296]="fuxing#16167#赋性|fùxìng#<ps>名</ps>天性：～刚强｜～聪颖。";
 var next = true;
+var pos = 54;

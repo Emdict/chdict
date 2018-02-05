@@ -302,3 +302,4 @@ x[299]="renjiao#43113#认脚|rènjiǎo#〈方〉<ps>形</ps>鞋左右两只不�
 x[300]="renjiao#43114#认缴|rènjiǎo#<ps>动</ps>应承缴纳；同意缴纳：～罚金。";
 x[301]="renjiao#43142#任教|rèn∥jiào#<ps>动</ps>担任教师工作：他在大学～｜我在这所学校里任过教。";
 var next = true;
+var pos = 144;

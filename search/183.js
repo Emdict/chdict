@@ -300,3 +300,4 @@ x[297]="wuzhuang#54422#武装|wǔzhuāng#➊<ps>名</ps>军事装备：～力量
 x[298]="wuzhuangbudui#54423#武装部队|wǔzhuāng bùduì#军队。";
 x[299]="wuzhuangjingcha#54424#武装警察|wǔzhuāng jǐngchá#➊国家武装力量的一部分，担负守卫国家重要工矿、企业、交通设施…";
 var next = true;
+var pos = 183;

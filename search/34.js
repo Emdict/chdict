@@ -300,3 +300,4 @@ x[297]="danxingdao#10157#单行道|dānxíngdào#<ps>名</ps>单行线。";
 x[298]="danxinghua#10159#单性花|dānxìnghuā#<ps>名</ps>一朵花里只有雄蕊或雌蕊的叫单性花。具有单性花的植物，有…";
 x[299]="danxingshengzhi#10160#单性生殖|dānxìng-shēngzhí#某些比较低等的生物的卵未经受精就能发育成新的个体，这种繁殖叫…";
 var next = true;
+var pos = 34;

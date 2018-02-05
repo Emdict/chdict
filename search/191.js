@@ -299,3 +299,4 @@ x[296]="xinglichubi#57341#兴利除弊|xīnglì-chúbì#兴办有利的事业，
 x[297]="xinglie#57479#行猎|xíngliè#〈书〉<ps>动</ps>打猎：深山～。";
 x[298]="xinglijuanr#57478#行李卷<r>儿</r>|xíng·lijuǎnr#<ps>名</ps>铺盖卷<r>儿</r>。";
 var next = true;
+var pos = 191;

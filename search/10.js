@@ -298,3 +298,4 @@ x[295]="biaoshi#03225#标示|biāoshì#<ps>动</ps>标明；显示：他用笔�
 x[296]="biaoshi#03276#镖师|biāoshī#<ps>名</ps>镖客。";
 x[297]="biaoshi#03314#表示|biǎoshì#<ps>动</ps> ➊用言语行为显出某种思想、感情、态度等：～关怀｜大家鼓…";
 var next = true;
+var pos = 10;

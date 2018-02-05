@@ -300,3 +300,4 @@ x[297]="zuojiangshan#69331#坐江山|zuò jiāngshān#指掌握国家政权。";
 x[298]="zuojianzifu#69264#作茧自缚|zuòjiǎn-zìfù#蚕吐丝作茧，把自己包在里面，比喻做了某事，结果反而使自己受困…";
 x[299]="zuojin#69207#左近|zuǒjìn#<ps>名</ps>附近：房子～有一片草地。";
 var next = true;
+var pos = 232;

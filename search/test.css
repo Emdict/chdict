@@ -15,8 +15,8 @@ button {
 	height: 36px;
 }
 #result {
-	width: 80%;
-	max-width: 800px;
+	width: 90%;
+	max-width: 720px;
 	margin: 0 auto;
 	padding-top: 20px;
 }
@@ -60,14 +60,14 @@ page {
 	height: 1.5em;
 	text-align: center;
 	line-height: 1.5em;
-	font-size: 90%;
 	margin: 0 5px;
 	border: 1px #888 solid;
 }
 .pages {
+	font-size: 90%;
 	text-align: center;
 }
-pages a {
+.pages a {
 	text-decoration: none;
 }
 page.sel {

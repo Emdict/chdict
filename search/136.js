@@ -300,3 +300,4 @@ x[297]="qianzainanfeng#40587#千载难逢|qiānzǎi-nánféng#一千年也难得
 x[298]="qianzaiyishi#40588#千载一时|qiānzǎi-yīshí#一千年才有这么一个时机，形容机会难得。";
 x[299]="qianze#40885#谴责|qiǎnzé#<ps>动</ps>责备；严正申斥：世界进步舆论都～这一侵略行径。";
 var next = true;
+var pos = 136;

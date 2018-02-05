@@ -296,3 +296,4 @@ x[293]="zhinian#66490#纸捻|zhǐniǎn#（～<r>儿</r>）<ps>名</ps>用纸条�
 x[294]="zhiniao#66748#鸷鸟|zhìniǎo#<ps>名</ps>凶猛的鸟，如鹰、雕。";
 x[295]="zhiniaoku#66491#纸尿裤|zhǐniàokù#<ps>名</ps>用高级吸水性材料制成的一次性尿布，可黏合成内裤的形状，…";
 var next = true;
+var pos = 223;

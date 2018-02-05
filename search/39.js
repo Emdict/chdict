@@ -300,3 +300,4 @@ x[297]="diedie#11954#喋喋|diédié#<ps>形</ps>言语烦琐；说话没完没�
 x[298]="diediezhuangzhuang#11926#跌跌撞撞|diēdiēzhuàngzhuàng#（～的）<ps>形</ps>状态词。形容走路不稳。";
 x[299]="diefen#11927#跌份|diē∥fèn#（～<r>儿</r>）〈方〉<ps>动</ps>降低身份；丢面子。";
 var next = true;
+var pos = 39;

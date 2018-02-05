@@ -300,3 +300,4 @@ x[297]="jishibenmoti#24164#纪事本末体|jìshìběnmòtǐ#<ps>名</ps>我国�
 x[298]="jishigongzi#24094#计时工资|jìshí gōngzī#按照劳动时间多少和技术熟练程度来计算的工资。";
 x[299]="jishimian#23852#即食面|jíshímiàn#〈方〉<ps>名</ps>方便面。";
 var next = true;
+var pos = 91;

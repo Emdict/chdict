@@ -300,3 +300,4 @@ x[297]="pijin#38735#披巾|pījīn#<ps>名</ps>妇女用来披在肩膀上起装
 x[298]="pijing#38940#僻静|pìjìng#<ps>形</ps>（地方）偏僻清静：～的小巷。";
 x[299]="pijingzhanji#38736#披荆斩棘|pījīng-zhǎnjí#比喻扫除前进中的困难和障碍：～，艰苦创业。";
 var next = true;
+var pos = 131;

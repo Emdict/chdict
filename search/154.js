@@ -301,3 +301,4 @@ x[298]="sheyanshenjing#45077#舌咽神经|shéyān-shénjīng#第九对脑神经
 x[299]="sheying#45196#射影|shèyǐng#<ps>名</ps> ➊从一点向一条直线或一个平面作垂线，垂足叫作这点在这条…";
 x[300]="sheying#45227#摄影|shèyǐng#<ps>动</ps> ➊用照相机拍下实物影像。通称照相。 ➋拍电影。";
 var next = true;
+var pos = 154;

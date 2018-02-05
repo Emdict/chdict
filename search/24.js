@@ -283,3 +283,4 @@ x[280]="chongcha#07196#重茬|chónɡchá#<ps>动</ps>连作。";
 x[281]="chongchang#07140#充畅|chōnɡchànɡ#<ps>形</ps>（商品的来源、文章的气势）充沛畅达：货源～。";
 x[282]="chongchang#07197#重唱|chónɡchànɡ#<ps>名</ps>两个或两个以上的歌唱者，各按所担任的声部演唱同一歌曲，…";
 var next = true;
+var pos = 24;

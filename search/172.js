@@ -302,3 +302,4 @@ x[299]="tongjing#51188#通经¹|tōng∥jīng#<ps>动</ps>旧时指通晓儒家�
 x[300]="tongjing#51189#通经²|tōng∥jīng#<ps>动</ps>中医指用药物、针灸等使月经通畅。";
 x[301]="tongjing#51491#痛经|tòngjīng#<ps>动</ps>妇女在行经前或行经时下腹子宫部位出现疼痛症状。也叫经痛…";
 var next = true;
+var pos = 172;

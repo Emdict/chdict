@@ -298,3 +298,4 @@ x[295]="chaojie#06078#潮解|cháojiě#<ps>动</ps>某些晶体因吸收空气�
 x[296]="chaojin#06056#朝觐|cháojìn#<ps>动</ps> ➊〈书〉朝见。 ➋指宗教徒拜谒圣像、圣地等。";
 x[297]="chaojinr#05946#抄近<r>儿</r>|chāo∥jìnr#<ps>动</ps>走较近的路。";
 var next = true;
+var pos = 20;

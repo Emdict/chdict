@@ -293,3 +293,4 @@ x[290]="duoduobiren#13202#咄咄逼人|duōduō-bīrén#形容气势汹汹，盛
 x[291]="duoduoshanshan#13241#躲躲闪闪|duǒ·duoshǎnshǎn#<ps>形</ps>状态词。形容有意掩饰或避开事实真相：你谈问题要和盘托出…";
 x[292]="duoduoyishan#13149#多多益善|duōduō-yìshàn#越多越好。";
 var next = true;
+var pos = 44;

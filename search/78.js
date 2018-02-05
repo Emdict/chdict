@@ -299,3 +299,4 @@ x[296]="huoyanjinjing#23280#火眼金睛|huǒyǎn-jīnjīng#《西游记》第�
 x[297]="huoyanpensheqi#23282#火焰喷射器|huǒyàn pēnshèqì#喷火器。";
 x[298]="huoyanwang#23164#活阎王|huóyán·wang#<ps>名</ps>比喻极凶恶残忍的人。";
 var next = true;
+var pos = 78;

@@ -248,3 +248,4 @@ x[245]="jingquenongye#27097#精确农业|jīngquè nóngyè#精准农业。";
 x[246]="jingran#27146#井然|jǐngrán#〈书〉<ps>形</ps>形容整齐的样子：秩序～｜条理～｜～不紊。";
 x[247]="jingran#27297#竟然|jìngrán#<ps>副</ps>竟④：这样宏伟的建筑，～只用十个月的时间就完成了。";
 var next = true;
+var pos = 89;

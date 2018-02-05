@@ -300,3 +300,4 @@ x[297]="guojizongdui#19433#国际纵队|guójì zòngduì#指1936—1939年西�
 x[298]="guoju#19446#国剧|guójù#<ps>名</ps>指一个国家的广为流行的传统剧种，如我国的京剧。";
 x[299]="guojue#19536#果决|guǒjué#<ps>形</ps>果敢坚决：办事～。";
 var next = true;
+var pos = 65;

@@ -276,3 +276,4 @@ x[273]="qingsu#41845#情愫（情素）|qíngsù#〈书〉<ps>名</ps> ➊感情
 x[274]="qingsuan#41545#青蒜|qīngsuàn#<ps>名</ps>嫩的蒜梗和蒜叶，做菜用。";
 x[275]="qingsuan#41753#清算|qīngsuàn#<ps>动</ps> ➊彻底地计算：～账目。 ➋列举全部罪恶或错误并做出相应的…";
 var next = true;
+var pos = 139;

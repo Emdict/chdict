@@ -292,3 +292,4 @@ x[289]="xiaodaxiaonao#56403#小打小闹|xiǎodǎ-xiǎonào#指小规模、零�
 x[290]="xiaode#56627#晓得|xiǎo·de#<ps>动</ps>知道。";
 x[291]="xiaodi#56406#小弟|xiǎodì#<ps>名</ps> ➊小的弟弟。 ➋男性在朋友或熟人之间对自己的谦称。";
 var next = true;
+var pos = 187;

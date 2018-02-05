@@ -300,3 +300,4 @@ x[297]="tianqiyubao#50511#天气预报|tiānqì yùbào#向有关地区发出的
 x[298]="tianqu#50519#天趣|tiānqù#<ps>名</ps>自然的情趣：～盎然。";
 x[299]="tianquan#50697#填权|tiánquán#<ps>动</ps>某只股票在除权、除息后交易价格高于除权、除息价格叫填权…";
 var next = true;
+var pos = 169;

@@ -314,3 +314,4 @@ x[311]="zhong#67148#重|zhòng#➊<ps>名</ps>重量；分量：净～｜箱子�
 x[312]="zhong#67204#蚛|zhòng#〈书〉虫咬。";
 x[313]="zhong#67205#穜|zhòng#〈书〉同“种（zhòng）”。";
 var next = true;
+var pos = 224;

@@ -299,3 +299,4 @@ x[296]="zhenjianrduimaimangr#65527#针尖<r>儿</r>对麦芒<r>儿</r>|zhēnjiā
 x[297]="zhenjiao#65528#针脚|zhēn·jiao#<ps>名</ps> ➊衣物上针线的痕迹：棉袄上面有一道一道的～｜顺着线头找…";
 x[298]="zhenjiao#65687#阵脚|zhènjiǎo#<ps>名</ps>指所摆的阵的最前方，现多用于比喻：稳住～｜～大乱。";
 var next = true;
+var pos = 221;

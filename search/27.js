@@ -300,3 +300,4 @@ x[297]="chukou#07540#出口|chūkǒu#➊（-∥-）<ps>动</ps>说出话来：�
 x[298]="chukouchengzhang#07541#出口成章|chūkǒu-chénɡzhānɡ#话说出来就是一篇文章，形容文思敏捷或擅长辞令。";
 x[299]="chukoushangren#07542#出口伤人|chūkǒu-shānɡrén#一张口说话就污辱人、伤害人。";
 var next = true;
+var pos = 27;

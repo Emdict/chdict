@@ -301,3 +301,4 @@ x[298]="huiseshouru#22575#灰色收入|huīsè shōurù#指职工获得的工资
 x[299]="huishang#22784#毁伤|huǐshāng#<ps>动</ps>破坏；伤害。";
 x[300]="huishang#22847#会商|huìshāng#<ps>动</ps>双方或多方共同商量：～大计。";
 var next = true;
+var pos = 76;

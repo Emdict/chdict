@@ -300,3 +300,4 @@ x[297]="chushou#07893#触手|chùshǒu#<ps>名</ps>水螅等低等动物的感�
 x[298]="chushu#07812#处暑|chǔshǔ#<ps>名</ps>二十四节气之一，在8月22、23或24日。参看〖节气〗…";
 x[299]="chushuang#07707#初霜|chūshuānɡ#<ps>名</ps>入秋后最初出现的一次霜。";
 var next = true;
+var pos = 28;

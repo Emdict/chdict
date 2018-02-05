@@ -300,3 +300,4 @@ x[297]="fengpinglangjing#15245#风平浪静|fēngpíng-làngjìng#没有风浪�
 x[298]="fengqi#15247#风气|fēngqì#<ps>名</ps>社会上或某个集体中流行的爱好或习惯：社会～｜不良～。";
 x[299]="fengqi#15407#蜂起|fēngqǐ#<ps>动</ps>像蜂飞一样成群地起来：义军～。";
 var next = true;
+var pos = 51;

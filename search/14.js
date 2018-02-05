@@ -300,3 +300,4 @@ x[297]="bujibuli#04168#不即不离|bùjí-bùlí#既不亲近也不疏远。";
 x[298]="bujiezhiyuan#04178#不解之缘|bùjiězhīyuán#不能分开的缘分，指亲密的关系或深厚的感情。";
 x[299]="bujijian#04003#补给舰|bǔjǐjiàn#<ps>名</ps>供应舰。";
 var next = true;
+var pos = 14;

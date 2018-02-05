@@ -284,3 +284,4 @@ x[281]="laodun#30686#劳顿|láodùn#〈书〉<ps>形</ps>劳累（多指行程�
 x[282]="laofa#30687#劳乏|láofá#<ps>形</ps>疲倦；劳累。";
 x[283]="laofan#30688#劳烦|láofán#〈方〉<ps>动</ps>烦劳：～尊驾｜～您走一趟。";
 var next = true;
+var pos = 103;

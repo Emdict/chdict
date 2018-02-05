@@ -299,3 +299,4 @@ x[296]="jinnian#26505#今年|jīnnián#<ps>名</ps>时间词。说话时的这�
 x[297]="jinnian#26798#近年|jìnnián#<ps>名</ps>最近过去的几年：他的书法～颇有长进。";
 x[298]="jinniuzuo#26573#金牛座|jīnniúzuò#<ps>名</ps>黄道十二星座之一。参看〖黄道十二宫〗。";
 var next = true;
+var pos = 90;

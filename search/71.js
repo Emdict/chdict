@@ -301,3 +301,4 @@ x[298]="hongyun#21091#红运|hóngyùn#<ps>名</ps>好运气：走～。也作�
 x[299]="hongyun#21092#红晕|hóngyùn#<ps>名</ps>中心浓而四周渐淡的一团红色：脸上泛出～。";
 x[300]="hongyun#21159#鸿运|hóngyùn#同“红运”。";
 var next = true;
+var pos = 71;

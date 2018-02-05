@@ -260,3 +260,4 @@ x[257]="liangyanren#32171#亮眼人|liàngyǎnrén#<ps>名</ps>盲人称眼睛�
 x[258]="liangyao#32020#良药|liángyào#<ps>名</ps>好的药，多用于比喻：对症～｜～苦口利于病。";
 x[259]="liangyao#32050#凉药|liángyào#<ps>名</ps>一般指败火、解热的中药，如黄连、大黄、黄芩等。";
 var next = true;
+var pos = 106;

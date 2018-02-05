@@ -300,3 +300,4 @@ x[297]="quanshuo#42555#劝说|quànshuō#<ps>动</ps>劝人做某种事情或使
 x[298]="quansu#42469#全速|quánsù#<ps>名</ps>所能达到的最高速度：～航行｜部队～前进。";
 x[299]="quansuo#42523#蜷缩|quánsuō#<ps>动</ps>蜷曲而收缩：小虫子～成一个小球<r>儿</r>。";
 var next = true;
+var pos = 142;

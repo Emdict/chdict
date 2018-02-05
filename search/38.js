@@ -292,3 +292,4 @@ x[289]="dianyuan#11723#店员|diànyuán#<ps>名</ps>商店的职工，有时兼
 x[290]="dianzha#11673#电闸|diànzhá#<ps>名</ps>指较大型的电源开关。";
 x[291]="dianzhan#11674#电站|diànzhàn#<ps>名</ps>水电站、火电站、核电站等的统称。";
 var next = true;
+var pos = 38;

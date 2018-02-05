@@ -286,3 +286,4 @@ x[283]="zhongya#67146#种牙|zhòng∥yá#<ps>动</ps>植牙。";
 x[284]="zhongyan#67006#忠言|zhōngyán#<ps>名</ps>诚恳劝告的话：～逆耳。";
 x[285]="zhongyang#66964#中央|zhōngyāng#<ps>名</ps> ➊方位词。中心地方：湖的～有个亭子。 ➋特指国家政权或政…";
 var next = true;
+var pos = 225;

@@ -299,3 +299,4 @@ x[296]="zhaoying#65371#照应|zhàoyìng#<ps>动</ps>配合；呼应：互相～
 x[297]="zhaoying#65372#照应|zhào·ying#<ps>动</ps>照料：一路上乘务员对旅客～得很好。";
 x[298]="zhaozai#65242#招灾|zhāo∥zāi#<ps>动</ps>引来灾祸：～惹祸。";
 var next = true;
+var pos = 219;

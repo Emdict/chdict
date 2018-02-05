@@ -298,3 +298,4 @@ x[295]="zhuoding#68210#酌定|zhuódìng#<ps>动</ps>斟酌情况做出决定：
 x[296]="zhuodui#68159#捉对|zhuōduì#（～<r>儿</r>）<ps>动</ps>一个对一个；两两成对：～厮杀。";
 x[297]="zhuoerbuqun#68190#卓尔不群|zhuó’ěr-bùqún#优秀卓越，超出常人。";
 var next = true;
+var pos = 228;

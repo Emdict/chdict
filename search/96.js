@@ -300,3 +300,4 @@ x[297]="kaizongmingyi#28612#开宗明义|kāizōng-míngyì#《孝经》第一�
 x[298]="kaizui#28613#开罪|kāizuì#<ps>动</ps>得罪：从未～于人。";
 x[299]="kaji#28412#咔叽|kǎjī#<ps>名</ps>见〖卡其〗。";
 var next = true;
+var pos = 96;

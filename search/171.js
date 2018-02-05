@@ -300,3 +300,4 @@ x[297]="tingwen#51036#听闻|tīngwén#〈书〉 ➊<ps>名</ps>指听的活动�
 x[298]="tingwu#51063#亭午|tíngwǔ#〈书〉<ps>名</ps>正午；中午。";
 x[299]="tingxi#51097#停息|tíngxī#<ps>动</ps>停止：雨一～，大家立即赶路。";
 var next = true;
+var pos = 171;

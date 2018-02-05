@@ -300,3 +300,4 @@ x[297]="juxinpoce#27692#居心叵测|jūxīn-pǒcè#存心险恶，不可推测�
 x[298]="juya#27660#拘押|jūyā#<ps>动</ps>拘禁。";
 x[299]="juyang#27723#鞠养|jūyǎng#〈书〉<ps>动</ps>抚养；养育：～之恩。";
 var next = true;
+var pos = 95;

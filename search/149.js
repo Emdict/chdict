@@ -294,3 +294,4 @@ x[291]="shangaoshuidi#44388#山高水低|shāngāo-shuǐdī#指意外发生的�
 x[292]="shangba#44615#伤疤|shāngbā#<ps>名</ps> ➊伤口愈合后留下的痕迹。 ➋比喻过去的错误、隐私、耻辱等…";
 x[293]="shangban#44737#上班|shàng∥bān#（～<r>儿</r>）<ps>动</ps>在规定的时间到工作地点工作。";
 var next = true;
+var pos = 149;

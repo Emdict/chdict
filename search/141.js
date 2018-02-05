@@ -298,3 +298,4 @@ x[295]="qixiang#40424#气象|qìxiàng#<ps>名</ps> ➊大气的状态和现象�
 x[296]="qixiangquanneng#39888#七项全能|qī xiàng quánnéng#田径综合性比赛项目之一，运动员在两天内依次完成100米跨栏、…";
 x[297]="qixiangtai#40425#气象台|qìxiàngtái#<ps>名</ps>对大气进行观测、研究并预报天气的机构。规模较小的还有气…";
 var next = true;
+var pos = 141;

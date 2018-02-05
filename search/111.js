@@ -300,3 +300,4 @@ x[297]="longsheng#33115#隆盛|lóngshèng#〈书〉<ps>形</ps> ➊昌盛；兴
 x[298]="longshengjiuzhong#33069#龙生九种|lóngshēngjiǔzhǒng#龙生九子。";
 x[299]="longshengjiuzi#33070#龙生九子|lóngshēngjiǔzǐ#古代传说，一龙所生的九条小龙，形状性格都不相同。比喻同胞弟兄…";
 var next = true;
+var pos = 111;

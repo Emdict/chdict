@@ -300,3 +300,4 @@ x[297]="chuanranbing#08006#传染病|chuánrǎnbìnɡ#<ps>名</ps>由病原体�
 x[298]="chuanren#08007#传人|chuánrén#➊（-∥-）<ps>动</ps>传授给别人（多指特殊的技艺）：祖传秘方向来…";
 x[299]="chuanrushenjing#08008#传入神经|chuánrù-shénjīnɡ#把各个器官或外围部分的兴奋传到中枢神经系统的神经。也叫感觉神…";
 var next = true;
+var pos = 26;

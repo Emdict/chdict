@@ -1,6 +1,7 @@
 var ts = new Array();
 function init() {
 	var url = window.location.search;
+	//alert(url);
 	if (url.indexOf("?") != -1) {
 		var str = url.substr(1).split("=");
 		if (str[1].length == 0) window.location.href = "../index.html";
@@ -77,6 +78,7 @@ function getPage(p) {
 			page += "<a href='javascript:getPage("+i+")'><page>"+i+"</page></a>";
 		}
 	}
+	if (next) page += " <a href='"+(pos+1)+".html?q="+search_key+"'>更多</a>";
 	document.getElementById("result").innerHTML = "<div>共 " + ts.length + cont + "</ul>" + page + "</div>";
 }
 

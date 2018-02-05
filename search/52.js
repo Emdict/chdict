@@ -300,3 +300,4 @@ x[297]="fenziliang#15000#分子量|fēnzǐliàng#<ps>名</ps>相对分子质量�
 x[298]="fenzishai#15001#分子筛|fēnzǐshāi#<ps>名</ps>具有特定晶体结构的物质（如硅铝酸盐）。这种结构具有孔径…";
 x[299]="fenzishi#15002#分子式|fēnzǐshì#<ps>名</ps>用元素符号表示物质分子组成的式子，如水的分子式是H…";
 var next = true;
+var pos = 52;

@@ -300,3 +300,4 @@ x[297]="hunxiao#23080#混淆|hùnxiáo#<ps>动</ps> ➊混杂；界限模糊（�
 x[298]="hunxing#22984#昏星|hūnxīng#<ps>名</ps>我国古代指日落以后出现在西方的金星或水星。";
 x[299]="hunxing#22993#荤腥|hūnxīng#<ps>名</ps>指鱼肉等食品：老人家常年吃素，不沾～。";
 var next = true;
+var pos = 77;

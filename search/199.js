@@ -292,3 +292,4 @@ x[289]="yanjingqizhong#59021#延颈企踵|yánjǐng-qǐzhǒng#伸长脖子，抬
 x[290]="yanjingshe#59272#眼镜蛇|yǎnjìngshé#<ps>名</ps>毒蛇的一种，激怒时颈部膨胀变粗，上面有一对白边黑心的环…";
 x[291]="yanjinzhiyuan#59089#言近旨远|yánjìn-zhǐyuǎn#话说得浅近，而含义却很深远。";
 var next = true;
+var pos = 199;

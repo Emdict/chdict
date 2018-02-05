@@ -300,3 +300,4 @@ x[297]="wengshengwengqi#53848#齆声齆气|wèngshēng-wèngqì#形容说话的�
 x[298]="wengu#53787#稳固|wěngù#➊<ps>形</ps>安稳而巩固：基础～｜地位～。 ➋<ps>动</ps>使稳固：～政权。";
 x[299]="wenguan#53653#文官|wénguān#<ps>名</ps>指军官以外的官员。";
 var next = true;
+var pos = 180;

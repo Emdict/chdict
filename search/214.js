@@ -295,3 +295,4 @@ x[292]="yunxiao#64052#运销|yùnxiāo#<ps>动</ps>把货物运到别处销售�
 x[293]="yunxiaowusan#63945#云消雾散|yúnxiāo-wùsàn#➊天气由云雾笼罩转为晴朗。 ➋烟消云散。";
 x[294]="yunxie#64071#晕血|yùn∥xiě#<ps>动</ps>看见出血就头晕、心悸、呕吐甚至昏迷。";
 var next = true;
+var pos = 214;

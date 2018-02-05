@@ -299,3 +299,4 @@ x[296]="jiaqi#24704#假期|jiàqī#<ps>名</ps>放假或休假的时期。";
 x[297]="jiaqian#24668#价钱|jià·qián#<ps>名</ps>价格：～公道。";
 x[298]="jiaqiang#24378#加强|jiāqiáng#<ps>动</ps>使更坚强或更有效：～团结｜～领导｜～爱国主义教育。";
 var next = true;
+var pos = 84;

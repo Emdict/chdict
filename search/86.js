@@ -245,3 +245,4 @@ x[242]="jiemian#26422#界面|jièmiàn#<ps>名</ps> ➊物体和物体之间的�
 x[243]="jiemian#26437#诫勉|jièmiǎn#<ps>动</ps>对思想、工作、作风等方面存在问题的干部进行教育的一种形…";
 x[244]="jiemianrshang#26101#街面<r>儿</r>上|jiēmiànr·shang#〈口〉<ps>名</ps> ➊市面：一到春节，～特别热闹。 ➋附近街巷：他在这…";
 var next = true;
+var pos = 86;

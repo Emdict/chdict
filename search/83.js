@@ -299,3 +299,4 @@ x[296]="jiaojia#25836#叫价|jiào∥jià#<ps>动</ps>公开报出价格；开�
 x[297]="jiaojian#25742#矫健|jiǎojiàn#<ps>形</ps>强壮有力：身手～｜～的步伐。";
 x[298]="jiaojian#25772#脚尖|jiǎojiān#（～<r>儿</r>）<ps>名</ps>脚的最前部分：踮着～走。";
 var next = true;
+var pos = 83;

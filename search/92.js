@@ -301,3 +301,4 @@ x[298]="jiuzhabi#27517#酒渣鼻|jiǔzhābí#<ps>名</ps>慢性皮肤病，病�
 x[299]="jiuzhang#27555#旧章|jiùzhāng#<ps>名</ps>过去的典章制度；老规矩：更定～｜率由～。";
 x[300]="jiuzhang#27556#旧账|jiùzhàng#<ps>名</ps>旧日欠的账，比喻以前的纠葛、纷争等事情：不要算～。";
 var next = true;
+var pos = 92;

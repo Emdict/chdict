@@ -300,3 +300,4 @@ x[297]="shangzhuo#44702#商酌|shāngzhuó#<ps>动</ps>商量斟酌：此项工�
 x[298]="shangzuo#44917#上座|shàngzuò#<ps>名</ps>座位分尊卑时，最尊的座位叫上座。";
 x[299]="shangzuor#44918#上座<r>儿</r>|shàng∥zuòr#<ps>动</ps>指戏院、饭馆等处有顾客到来：戏园子里～已到八成。";
 var next = true;
+var pos = 150;

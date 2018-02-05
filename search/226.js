@@ -300,3 +300,4 @@ x[297]="zhuandong#67900#转动|zhuàndòng#<ps>动</ps> ➊物体以一点为中
 x[298]="zhuanduan#67753#专断|zhuānduàn#➊<ps>动</ps>应该共同商量而不商量，单独做出决定：～独行。 ➋<ps>形</ps>…";
 x[299]="zhuanfa#67832#转发|zhuǎnfā#<ps>动</ps> ➊把有关单位的文件转给下属单位。 ➋报刊上发表别的报刊上…";
 var next = true;
+var pos = 226;

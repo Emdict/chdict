@@ -304,3 +304,4 @@ x[301]="gongying#17805#供应|gōngyìng#<ps>动</ps>以物资满足需要（有
 x[302]="gongying#17836#恭迎|gōngyíng#<ps>动</ps>恭敬地迎接。";
 x[303]="gongying#17909#共赢|gòngyíng#<ps>动</ps>（各方）共同得益：各方加强合作，寻求～。";
 var next = true;
+var pos = 60;

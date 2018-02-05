@@ -291,3 +291,4 @@ x[288]="pangdahai#38306#胖大海|pàngdàhǎi#<ps>名</ps> ➊落叶乔木，�
 x[289]="pangdudu#38307#胖嘟嘟|pàngdūdū#（～的）<ps>形</ps>状态词。形容人肥胖（多用于小孩<r>儿</r>，含喜爱意）…";
 x[290]="pangdundun#38308#胖墩墩|pàngdūndūn#（～的）<ps>形</ps>状态词。形容人矮胖而结实。";
 var next = true;
+var pos = 128;

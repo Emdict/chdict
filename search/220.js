@@ -301,3 +301,4 @@ x[298]="zhengdian#65932#正点|zhèngdiǎn#➊<ps>动</ps>（车、船、飞机�
 x[299]="zhengdian#65933#正电|zhèngdiàn#<ps>名</ps>质子所带的电，物体失去电子时带正电。旧称阳电。";
 x[300]="zhengdian#65934#正殿|zhèngdiàn#<ps>名</ps>宫殿或庙宇里位置在中间的主要的殿。";
 var next = true;
+var pos = 220;

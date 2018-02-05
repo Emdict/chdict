@@ -300,3 +300,4 @@ x[297]="fanjiangdaohai#13985#翻江倒海|fānjiāng-dǎohǎi#➊形容水势浩
 x[298]="fanjie#14152#反诘|fǎnjié#<ps>动</ps>反问。";
 x[299]="fanjie#14251#犯戒|fàn∥jiè#<ps>动</ps>违犯戒律。";
 var next = true;
+var pos = 48;

@@ -300,3 +300,4 @@ x[297]="fangchengshisaiche#14330#方程式赛车|fāngchéngshì sàichē#汽车
 x[298]="fangchi#14331#方尺|fāngchǐ#<ps>量</ps>平方尺。";
 x[299]="fangchong#14466#房虫|fángchóng#（～<r>儿</r>）<ps>名</ps>指专门从事转手租赁、倒卖房产以赚取差价的人。";
 var next = true;
+var pos = 47;

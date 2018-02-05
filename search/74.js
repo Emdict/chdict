@@ -263,3 +263,4 @@ x[260]="huanrao#22191#环绕|huánrào#<ps>动</ps>围绕：村庄四周有竹�
 x[261]="huanraosheng#22192#环绕声|huánràoshēng#<ps>名</ps>将左、右、中、后环绕多声道声源预先编码，使成为双声道信…";
 x[262]="huanraosudu#22193#环绕速度|huánrào sùdù#第一宇宙速度。";
 var next = true;
+var pos = 74;

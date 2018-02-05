@@ -300,3 +300,4 @@ x[297]="ganlanzhi#16651#橄榄枝|gǎnlǎnzhī#<ps>名</ps>油橄榄的枝叶，
 x[298]="ganlao#16450#干酪|gānlào#<ps>名</ps>牛奶等发酵、凝固制成的食品。";
 x[299]="ganleng#16451#干冷|gānlěng#<ps>形</ps>状态词。（天气）干燥而寒冷：刮了一夜西北风，～～的。";
 var next = true;
+var pos = 56;

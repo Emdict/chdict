@@ -297,3 +297,4 @@ x[294]="shengchanziliao#45620#生产资料|shēngchǎn zīliào#劳动资料和�
 x[295]="shengchao#45886#胜朝|shèngcháo#〈书〉<ps>名</ps>指前一个朝代（被战胜而灭亡的朝代）：～遗老。";
 x[296]="shengchen#45621#生辰|shēngchén#〈书〉<ps>名</ps>生日。";
 var next = true;
+var pos = 152;

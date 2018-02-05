@@ -300,3 +300,4 @@ x[297]="pingzhang#39522#凭仗|píngzhàng#<ps>动</ps>倚仗：～着顽强不�
 x[298]="pingzhang#39542#屏障|píngzhàng#➊<ps>名</ps>像屏风那样遮挡着的东西（多指山岭、岛屿等）：燕山山地…";
 x[299]="pingzhanzhan#39459#平展展|píngzhǎnzhǎn#（～的）<ps>形</ps>状态词。形容平坦或平整：～的大马路。";
 var next = true;
+var pos = 132;

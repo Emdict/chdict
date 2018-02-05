@@ -300,3 +300,4 @@ x[297]="buzhisuocuo#04377#不知所措|bùzhī-suǒcuò#不知道怎么办才好
 x[298]="buzhisuoyun#04378#不知所云|bùzhī-suǒyún#不知道说的是什么，指语言紊乱或空洞。";
 x[299]="buzhisuozhong#04379#不知所终|bùzhī-suǒzhōnɡ#不知道结局或下落。";
 var next = true;
+var pos = 15;
