@@ -1,0 +1,23 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=0.5, maximum-scale=2.0, user-scalable=yes" />
+	<link rel="stylesheet" type="text/css" href="test.css">
+	<script type="text/javascript" src="index.js"></script>
+	<script type="text/javascript" src="434.js"></script>
+	<script type="text/javascript" src="main.js"></script>
+	<title>汉语词典</title>
+</head>
+
+<body onload="init()">
+
+<div style="text-align: center;">
+	<div class="title">汉语词典查询</div>
+	<input type="text" id="search" onchange="search();"/>
+	<button onclick="search();">查找</button>
+</div>
+<div id="result" class="search_result">
+</div>
+
+</body>
+</html>

@@ -1,3 +1,4 @@
+var ts = new Array();
 function init() {
 	var url = window.location.search;
 	if (url.indexOf("?") != -1) {
@@ -14,9 +15,12 @@ function init() {
 function search() {
 	//alert("search");
 	search_key = document.getElementById("search").value.toLowerCase();
-	var res = bs(search_key);
-	if (res == 0) res = 1;
-	window.location.href = res+".html?q="+search_key;
+	if (search_key == "") window.location.href = "../index.html";
+	else {
+		var res = bs(search_key);
+		if (res == 0) res = 1;
+		window.location.href = res+".html?q="+search_key;
+	}
 }
 
 function search2(key) {
@@ -26,13 +30,10 @@ function search2(key) {
 	if (id < 0) id = -id - 1;
 	var res = x[id].split("#");
 	var title = res[0];
-	var cont = "";
-	var count = 0;
-	var ts = new Array();
+	ts = new Array();
 	var ex = false;
 	while (title.startWith(key)) {
-		count++;
-		ts.push(res[1]+"#"+res[2]);
+		ts.push(res[1]+"#"+res[2]+"#"+res[3]);
 		//var index = Number(res[1]);
 		//cont += "<li>"+t[index].replace(/{/g, "<span class='small'>").replace(/}/g, "</span>")+"</li>";
 		id++;
@@ -43,20 +44,40 @@ function search2(key) {
 		res = x[id].split("#");
 		title = res[0];
 	}
-	if (count == 0) document.getElementById("result").innerHTML = "无结果";
+	if (!ex) next = ex;
+	if (ts.length == 0) document.getElementById("result").innerHTML = "无结果";
 	else {
 		ts.sort();
-		for (var i=0; i<count; i++) {
-			title = ts[i].split("#")[1];
-			if (title.indexOf("|") >= 0) {
-				cont += "<li>"+title.replace("|", " <py>")+"</py></li>";
-			} else cont += "<li>"+title+"</li>";
-		}
-		if (ex) ex = next;
-		if (ex) cont = "+ 个词条</div><ul>" + cont;
-		else cont = " 个词条</div><ul>" + cont;
-		document.getElementById("result").innerHTML = "<div>共 " + count + cont + "</ul>";
+		getPage(1);
 	}
+}
+
+function getPage(p) {
+	var cont = "";
+	var max = p * 30;
+	if (max > ts.length) max = ts.length;
+	for (var i=(p-1)*30; i<max; i++) {
+		res = ts[i].split("#");
+		title = res[1];
+		if (title.indexOf("|") >= 0) {
+			cont += "<li><d>"+title.replace("|", "</d><py>")+"</py>";
+		} else cont += "<li>"+title;
+		cont += "<c>"+res[2]+"</c></li>";
+	}
+	if (next) cont = "+ 个词条</div><ul>" + cont;
+	else cont = " 个词条</div><ul>" + cont;
+	var page = "<div class='pages'>";
+	if (ts.length > 30) {
+		for (var i=1; i<p; i++) {
+			page += "<a href='javascript:getPage("+i+")'><page>"+i+"</page></a>";
+		}
+		page += "<page class='sel'>"+p+"</page>";
+		var pg = (ts.length + 29) / 30;
+		for (var i=p+1; i<pg; i++) {
+			page += "<a href='javascript:getPage("+i+")'><page>"+i+"</page></a>";
+		}
+	}
+	document.getElementById("result").innerHTML = "<div>共 " + ts.length + cont + "</ul>" + page + "</div>";
 }
 
 function bs(key) {
