@@ -1,5 +1,5 @@
 body {
-	font-family: Arial, SimSun, "SimSun-ExtB", "KaiXinSong", "TH-Tshyn-P2";
+	font-family: Arial, SimSun, "Pingfang SC", "SimSun-ExtB", "KaiXinSong", "TH-Tshyn-P2";
 }
 .title {
 	margin: 10px;
@@ -72,4 +72,16 @@ page {
 }
 page.sel {
 	border: 0px;
+}
+.gaiji {
+	height: 1em;
+}
+jp {
+	font-family: "HanaMinA";
+}
+hk {
+	
+}
+tw {
+	font-family: MingLiU;
 }
